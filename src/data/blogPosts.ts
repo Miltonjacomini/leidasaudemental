@@ -23,7 +23,7 @@ export const blogPosts: BlogPost[] = [
     excerpt: 'Descubra como identificar e avaliar os riscos psicossociais no ambiente de trabalho conforme as novas exigências da Norma Regulamentadora 1.',
     image: '/blog-1.jpg',
     category: 'NR-1',
-    author: 'Equipe MentalWork',
+    author: 'Equipe Lei da Saúde Mental',
     authorRole: 'Especialistas em Saúde Ocupacional',
     readTime: '5 min',
     publishedAt: '2024-12-15',

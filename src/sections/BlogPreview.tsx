@@ -10,7 +10,7 @@ const articles = [
     title: 'Entendendo os Riscos Psicossociais na NR-1',
     excerpt:
       'Descubra como identificar e avaliar os riscos psicossociais no ambiente de trabalho conforme as novas exigências da Norma Regulamentadora 1.',
-    author: 'Equipe MentalWork',
+    author: 'Equipe Lei da Saúde Mental',
     readTime: '5 min',
     slug: 'riscos-psicossociais-nr1',
   },

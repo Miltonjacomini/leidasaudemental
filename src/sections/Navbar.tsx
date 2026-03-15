@@ -84,7 +84,7 @@ export function Navbar() {
               <Brain className="w-6 h-6 text-white" />
             </div>
             <span className="font-bold text-xl text-[#2D4A3A]">
-              Mental<span className="text-[#4A7C59]">Work</span>
+              Lei da Saúde <span className="text-[#4A7C59]">Mental</span>
             </span>
           </Link>
 
