@@ -72,7 +72,7 @@ export function Footer() {
               Especialistas em adequação à Lei 14.831/2024. Ajudamos empresas a
               criarem ambientes de trabalho mais saudáveis e produtivos.
             </p>
-            {/* Social Links */}
+            {/* Social Links 
             <div className="flex items-center gap-3">
               {socialLinks.map((social, index) => (
                 <a
@@ -85,6 +85,7 @@ export function Footer() {
                 </a>
               ))}
             </div>
+            */}
           </div>
 
           {/* Quick Links */}
@@ -125,7 +126,7 @@ export function Footer() {
             </ul>
           </div>
 
-          {/* Newsletter */}
+          {/* Newsletter 
           <div>
             <h4 className="font-semibold text-lg mb-6">Newsletter</h4>
             <p className="text-white/70 text-sm mb-4">
@@ -146,6 +147,7 @@ export function Footer() {
               </button>
             </form>
           </div>
+          */}
         </div>
       </div>
 

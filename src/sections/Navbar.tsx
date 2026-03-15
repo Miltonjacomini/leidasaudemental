@@ -9,7 +9,6 @@ const navLinks = [
   { href: '#requisitos', label: 'Requisitos' },
   { href: '#adequacao', label: 'Adequação' },
   { href: '#blog', label: 'Blog' },
-  { href: '#contato', label: 'Contato' },
 ];
 
 export function Navbar() {
@@ -113,7 +112,7 @@ export function Navbar() {
             ))}
           </div>
 
-          {/* CTA Button */}
+          {/* CTA Button
           <div className="hidden lg:block">
             <Link
               to="/#contato"
@@ -123,6 +122,7 @@ export function Navbar() {
               Consultoria Gratuita
             </Link>
           </div>
+           */}
 
           {/* Mobile Menu Button */}
           <button
